@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Jointly](README.md)
+* [README](README.md)

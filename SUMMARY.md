@@ -1,4 +1,4 @@
 # Table of contents
 
-* [README](README.md)
+* [README.md](README.md)
 * [UserGuide.md](userguide-md.md)
